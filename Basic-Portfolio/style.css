@@ -1,0 +1,51 @@
+body  {
+  background-image: url("assets/images/crossline-dots.png");
+  background-color: #cccccc;
+}
+.menu{
+
+  float: right;
+}
+
+.myname{
+background-color: #4aaaa5;
+height: 80px;
+width:160px;
+text-align: center;
+font-size: 24px;
+font:bold;
+
+
+color: white;
+
+}
+
+
+#mid{
+margin: auto 350px auto;
+
+font-weight: bold;
+
+}
+
+h1{
+color: #4aaaa5
+}
+
+.main{
+
+  background-color: white;
+  color: #777777
+}
+
+#label{
+
+position: absolute; top: 10px;
+
+}
+
+#bottomLine{
+
+color: #4aaaa5;
+
+}
