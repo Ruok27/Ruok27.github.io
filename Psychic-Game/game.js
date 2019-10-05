@@ -33,9 +33,12 @@ if (guessCount==0){
 
 
 if (input === cpuChoice){
-winCount++;
-document.getElementById("win-count").innerHTML = winCount;
-console.log("You won! " + input + " " + cpuChoice);
+    winCount++;
+    document.getElementById("win-count").innerHTML = winCount;
+    console.log("You won! " + input + " " + cpuChoice);
+    guessLetters = " ";
+    document.getElementById("guess-letters").innerHTML = guessLetters;
+    
 }
 
 else 
