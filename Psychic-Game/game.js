@@ -8,6 +8,8 @@ let winCount = 0;
 let loseCount = 0;
 let guessCount = 10;
 let guessLetters = 0;
+let cpuChoice = letters[Math.floor(Math.random() * (25 - 0 + 1)) + 0];
+
 
 
 
@@ -21,13 +23,14 @@ for (let i = 97; i < 123;i++){
 
 }
 
-let cpuChoice = letters[Math.floor(Math.random() * (25 - 0 + 1)) + 0];
 
 if (guessCount==0){
     guessLetters = " ";
     loseCount++;
     guessCount +=11;
     document.getElementById("lose-count").innerHTML = loseCount;
+    cpuChoice = letters[Math.floor(Math.random() * (25 - 0 + 1)) + 0];
+
         
     }
 
@@ -38,6 +41,8 @@ if (input === cpuChoice){
     console.log("You won! " + input + " " + cpuChoice);
     guessLetters = " ";
     document.getElementById("guess-letters").innerHTML = guessLetters;
+    cpuChoice = letters[Math.floor(Math.random() * (25 - 0 + 1)) + 0];
+
     
 }
 
@@ -47,6 +52,7 @@ guessLetters += " "+ input;
 console.log(input + " " + cpuChoice);
 document.getElementById("guess-left").innerHTML = guessCount;
 document.getElementById("guess-letters").innerHTML = guessLetters;
+
 
 }
 
