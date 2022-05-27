@@ -13,10 +13,29 @@ body{
 
 
     /* Created with https://www.css-gradient.com */
-background: #D60370;
-background: -webkit-linear-gradient(top left, #D60370, #0039A8);
-background: -moz-linear-gradient(top left, #D60370, #0039A8);
-background: linear-gradient(to bottom right, #D60370, #0039A8);
+
+    background: linear-gradient(141deg, #d00070, #8c4799, #0032a0);
+    background-size: 600% 600%;
+
+    -webkit-animation: AnimationName 46s ease infinite;
+    -moz-animation: AnimationName 46s ease infinite;
+    animation: AnimationName 46s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 54%}
+    50%{background-position:100% 47%}
+    100%{background-position:0% 54%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 54%}
+    50%{background-position:100% 47%}
+    100%{background-position:0% 54%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 54%}
+    50%{background-position:100% 47%}
+    100%{background-position:0% 54%}
 
 }
 
