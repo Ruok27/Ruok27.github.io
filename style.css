@@ -1,11 +1,22 @@
 
-
+html{
+    height: 100%;
+}
 body{
 
+
+    
     padding: 25px;
     background-color: white;
     color: black;
     font-size: 25px;
+
+
+    /* Created with https://www.css-gradient.com */
+background: #D60370;
+background: -webkit-linear-gradient(top left, #D60370, #0039A8);
+background: -moz-linear-gradient(top left, #D60370, #0039A8);
+background: linear-gradient(to bottom right, #D60370, #0039A8);
 
 }
 
@@ -14,7 +25,7 @@ body{
     position: fixed;
     top: 0;
     right: 0;
-    \
+    
     border: 3px solid #73AD21;
 
 
@@ -24,4 +35,22 @@ body{
 
 background-color: black;
 color: white;
+
+
+}
+
+
+#oldpageBtn{
+    background-color: blue; color: white; border: solid black;
+    
+    margin: 2px;
+    opacity: 50%;
+
+
+}
+
+#oldpageBtn:hover{
+
+opacity: 100%;
+
 }
