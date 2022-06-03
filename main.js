@@ -6,3 +6,8 @@ function toggleTheme(){
 }
 
 
+let box = document.getElementsByClassName(".container div");
+let boxwidth = box.clientWidth;
+
+box.style["height"] = boxwidth;
+
