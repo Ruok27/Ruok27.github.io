@@ -84,6 +84,8 @@ opacity: 100%;
 
  .container{
 
+    margin-top: 20px;
+
 position:relative;
     border: solid;
     height: 600px;
@@ -113,9 +115,37 @@ color: white;
     
             
             text-align: center;
-            background: rgba(0, 0, 0, .1);
+            background-color: #efcb68;
+            
+          
+            
             
             
             
 
 } 
+
+
+.parent{
+
+   
+display: grid;
+grid-gap: 10px;
+grid-template-columns: 150px 150px 150px;
+grid-template-rows: 150px 150px 150px;
+border-radius: 5px;
+
+display:grid;
+place-items: center;
+
+}
+
+.parent > div:hover {
+
+padding: 10px;
+
+background: rgba(0, 0, 0, .1);
+
+
+
+}
