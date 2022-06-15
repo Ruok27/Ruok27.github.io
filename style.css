@@ -1,8 +1,8 @@
 
 html{
     height: 100%;
-    font-family: helvetica, arial, sans-ser;
-    font-weight: bolder;
+    font-family: helvetica, arial, sans-serif;
+    font-weight:900
 }
 body{
 
@@ -11,7 +11,7 @@ body{
     padding: 25px;
     background-color: white;
     color: black;
-    font-size: 25px;
+    font-size: auto;
 
 
     /* Created with https://www.css-gradient.com */
@@ -90,6 +90,7 @@ position:relative;
     border: solid;
     height: 600px;
     padding-top: 20px;
+    width:unset
     
 
 } 
@@ -115,7 +116,7 @@ color: white;
     
             
             text-align: center;
-            background-color: #efcb68;
+            background-color: #99ff99
             
           
             
@@ -124,6 +125,20 @@ color: white;
             
 
 } 
+
+
+@media only screen and (min-width:768px){
+    .parent{
+        padding-left: 15%;
+    }
+    }
+ 
+ @media only screen and (min-width:910px){
+    .parent{
+        padding-left: 15%;
+    }
+ }
+
 
 
 .parent{
@@ -135,8 +150,10 @@ grid-template-columns: 150px 150px 150px;
 grid-template-rows: 150px 150px 150px;
 border-radius: 5px;
 
+
 display:grid;
 place-items: center;
+
 
 }
 
