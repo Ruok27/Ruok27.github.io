@@ -1,0 +1,457 @@
+[33mcommit 53fe4ca3b2e17e1ba1d6d3eca35adf78b91d3ccd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ruok27 <jakxii27@gmail.com>
+Date:   Mon Jul 11 22:59:32 2022 -0400
+
+    test
+
+[33mcommit 5ec25c79cbb7a23c0726c07a1c75425f63e36eec[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Mon Jul 11 03:52:29 2022 -0400
+
+    refresh
+
+[33mcommit 206268d38b57124f14e02788bb3d4cbf763036e1[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Mon Jul 11 03:27:43 2022 -0400
+
+    change homepage
+
+[33mcommit d2207f082b200354bfad201bd156eaa5d9b8d539[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Mon Jul 11 03:17:03 2022 -0400
+
+    replace homepage with react
+
+[33mcommit b76a68273164fc07806f014d9a9305f0505496ac[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Tue Jun 28 00:41:16 2022 -0400
+
+    added link to react page that will replace this index in the future
+
+[33mcommit 250c9897c83d8de93634e7f7cc60a8691fb9d20c[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Tue Jun 14 23:04:29 2022 -0400
+
+    fix grid add link to future photography page
+
+[33mcommit 7f1d8b4592095bedc41fdc3cdc8947b797b1b33c[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Tue Jun 14 02:18:32 2022 -0400
+
+    grid
+
+[33mcommit afd0cff3c58159596eff76e1af656163a2ae5018[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri Jun 3 02:45:48 2022 -0400
+
+    tried making a grid of squares
+
+[33mcommit 9dd531f4218967a249895e451602292d871c7def[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Mon May 30 03:52:47 2022 -0400
+
+    mobile viewpoint
+
+[33mcommit ccd07d0c2ec173f57a45879aad26aeafef91acf5[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sun May 29 03:31:28 2022 -0400
+
+    normalize css
+
+[33mcommit 545392a2afff3a9141adf893072460ca7ea9171a[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sun May 29 03:25:09 2022 -0400
+
+    added jquery and bootstrap
+
+[33mcommit 1cb602ebf9404d63bd9f071c87b389b598a55cdc[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri May 27 02:23:35 2022 -0400
+
+    animated background
+
+[33mcommit f2aa269f3cc3ecab8fcd52c4a13af3126409e8e5[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Thu May 26 22:54:02 2022 -0400
+
+    nicer looking background
+
+[33mcommit ace5adcd46246b98ac3c85c834c7a89e2dd097a9[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Thu May 26 01:12:35 2022 -0400
+
+    back button on old page
+
+[33mcommit e4e6f043321d677d07a7ff2e558815e9c9b2f573[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Thu May 26 01:03:40 2022 -0400
+
+    preview pic url
+
+[33mcommit a44aa05cb9ae867800d5cd4bf1052456e0ee4b0d[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Thu May 26 00:55:47 2022 -0400
+
+    preview url image fix
+
+[33mcommit 6115da6f6650600388cfbd826be51647ea9b1629[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Thu May 26 00:38:14 2022 -0400
+
+    try to fix image
+
+[33mcommit 739354148220d64a49e119bb8b4bb59b10da8c31[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Thu May 26 00:27:15 2022 -0400
+
+    meta tags for url previews
+
+[33mcommit 2f613d47579a49cb8a4cb6640843bfdf28df3324[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Tue May 24 00:25:34 2022 -0400
+
+    added dark mode toggle
+
+[33mcommit 65dedea5abcc6e13e6a5501d34df12061e00b412[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri May 20 01:15:04 2022 -0400
+
+    emptied landing page and added link to old page
+
+[33mcommit f55532d9371ee28d48ee5f5f7e2f79e416c007cd[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri May 20 00:49:53 2022 -0400
+
+    moved Trilogy page into its own folder
+
+[33mcommit 77bf0c6e71ce5f39895d699d1e99b8f22c1fd723[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Mon Feb 3 22:55:58 2020 -0500
+
+    redo2
+
+[33mcommit af2fba8d0c7c22f6529a6635c0e4f126a6c586d3[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sun Feb 2 23:51:23 2020 -0500
+
+    added assignments between project 1 and 2
+
+[33mcommit 2f7acce3879cb9b35251d177df5d29a6b8c7a1a1[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Sat Dec 7 01:38:53 2019 -0500
+
+    Update README.md
+
+[33mcommit da8aa3239a7b443317f993c135eefc586be845bb[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sat Nov 16 02:51:28 2019 -0500
+
+    Assignment 8
+
+[33mcommit 4ce083dab2c55142b9b36ddf5e4f1e083cb3f827[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Mon Nov 11 00:15:32 2019 -0500
+
+    project 1
+
+[33mcommit d18199d38e486bce616abc29b7e8fd1a9e8af03e[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Mon Nov 11 00:08:37 2019 -0500
+
+    project 1
+
+[33mcommit 39c5a1280f18c3eb80ced396d16fbef3d9f85132[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sun Nov 10 23:59:47 2019 -0500
+
+    project 1
+
+[33mcommit fb564d0dffae1357150f3a14d51145b43fbcbaf7[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sun Nov 10 23:58:30 2019 -0500
+
+    project 1
+
+[33mcommit 9b26512836ae4b12dfd79c739c8b6449c12552db[m
+Merge: ec88f27 aa6934b
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sun Nov 10 23:57:48 2019 -0500
+
+    project 1
+
+[33mcommit ec88f27a36f42780016f20321a4b89acf8754a2e[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sun Nov 10 23:55:46 2019 -0500
+
+    project 1
+
+[33mcommit aa6934befcf1f16550e8e0028a663e32c1be2004[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Sat Nov 2 00:34:17 2019 -0400
+
+    Update index.html
+
+[33mcommit 462234e133d124af89b65608e67d6f35d921fe9b[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Sat Nov 2 00:30:17 2019 -0400
+
+    Update index.html
+
+[33mcommit 9dda4a748e69284f6218cbb05919feca364168ed[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Sat Nov 2 00:28:36 2019 -0400
+
+    Update index.html
+
+[33mcommit 9163a6a0cf4f64c6019da8e7b9ac92c524a44a43[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Sat Nov 2 00:07:30 2019 -0400
+
+    Add files via upload
+
+[33mcommit 53d8717cca4109edd3d82a916134b3c66b8d4c35[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sat Nov 2 00:05:31 2019 -0400
+
+    rm folder
+
+[33mcommit f933cddaf9269b389e47f642d30a75c1f7a1e376[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri Nov 1 23:55:25 2019 -0400
+
+    Assignment 7
+
+[33mcommit 3de76466a1902f1f78f4e2814f769e25aa020e0e[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Mon Oct 28 01:37:32 2019 -0400
+
+    Update index.html
+
+[33mcommit 399ff8ceedd697ae4400fa5b3d5627c8f6e513f7[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Mon Oct 28 01:35:09 2019 -0400
+
+    Update index.html
+
+[33mcommit 5ff6a80a5f7ffa01e5e13557e53c710abb9ed961[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Mon Oct 28 01:33:10 2019 -0400
+
+    Update index.html
+
+[33mcommit f9285ea51876f79692ef162db8e8a68e9f757df1[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Sat Oct 26 12:36:07 2019 -0400
+
+    Update main.js
+
+[33mcommit a78e3fe616e4fee1c6867348a9b481b4096cc83f[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Fri Oct 25 19:20:31 2019 -0400
+
+    assignment 6
+
+[33mcommit 8634b4a5b0c5988393053be1ceac3245f494cb30[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Sun Oct 20 02:29:29 2019 -0400
+
+    Update style.css
+
+[33mcommit 5c281f4d32ad3510bc7e2583133d2657f88ee68b[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Sun Oct 20 02:28:04 2019 -0400
+
+    Update index.html
+
+[33mcommit 59f11fc048be99d35b12a566ca9d50f46a25f793[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Sat Oct 19 20:08:06 2019 -0400
+
+    Add files via upload
+
+[33mcommit 811599d4c8e249a5186ff3bb15213685a7a7fc96[m
+Author: Jose Fernandez <ruok27@users.noreply.github.com>
+Date:   Sat Oct 12 12:51:52 2019 -0400
+
+    added assignment 4
+
+[33mcommit 423739a21c844a881d8eb034fac6aa7d7eace9f1[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Mon Oct 7 20:17:33 2019 -0400
+
+    Update game.js
+
+[33mcommit d32db9fa64ef2a6a07dea07d45f31fb070ef375b[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sat Oct 5 17:47:00 2019 -0400
+
+    fixed issue with assignment 3
+
+[33mcommit 83d5681856ecb2326a5277bc5ca96a2b29c9261a[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Thu Oct 3 18:25:50 2019 -0400
+
+    updated index
+
+[33mcommit c77d763201dc7ab335ab3d848e83b1e50cadd85d[m
+Merge: 16c15b2 5b21fcb
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Thu Oct 3 18:20:56 2019 -0400
+
+    Merge branch 'master' of github.com:Ruok27/Ruok27.github.io
+
+[33mcommit 16c15b2ab1b80bdd10863114cd9d5a493effddca[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Thu Oct 3 18:18:50 2019 -0400
+
+    Assignment 3's psychic game
+
+[33mcommit 5b21fcbc640b1e939147a1157dd64cee2ef823f6[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Mon Sep 30 03:12:00 2019 -0400
+
+    added link to assignment 2 in index
+
+[33mcommit 3560d667ebf6b23a216a56c199ad509af0f1582c[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sat Sep 28 18:26:46 2019 -0400
+
+    initial bootstap portfolio page
+
+[33mcommit ef3d5737f4fc52b15366a7a1502f77ae28a0a43c[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sat Sep 28 18:21:42 2019 -0400
+
+    initial git page of bootstrap
+
+[33mcommit 7a47724a8c418b2afcbc83e7c675d52a1ccb7aae[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Fri Sep 27 23:14:32 2019 -0400
+
+    Update index.html
+
+[33mcommit d509d38f59d6a3cfb859b3e447fe83470eb4b5f5[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Fri Sep 27 21:36:07 2019 -0400
+
+    Update index.html
+
+[33mcommit efd6944b591ce17df186c26c0c38b23a0527ed3b[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Fri Sep 27 21:35:24 2019 -0400
+
+    Update index.html
+
+[33mcommit aa21603557e94c110d07b84a9ebf155cdbc75e83[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri Sep 27 21:32:19 2019 -0400
+
+    added responsive portfolio
+
+[33mcommit 88f03eaf2cc227f8a47b0f4f5ec04cf23160ef67[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri Sep 27 21:26:39 2019 -0400
+
+    added responsive portfolio
+
+[33mcommit 04b2a59549a3a92cc6cc548dad9e0a9d02d9b0fc[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri Sep 27 21:24:24 2019 -0400
+
+    added responsive portfolio
+
+[33mcommit d9b09bda747e546ccf56928a9e353e3d2434bb1d[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Tue Sep 24 19:27:48 2019 -0400
+
+    Update portfolio.html
+
+[33mcommit 77fcee5486fe58e7d77861b76025682ee04b5f2a[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Tue Sep 24 19:25:40 2019 -0400
+
+    Update index.html
+
+[33mcommit 1680c67cdc422d67806dfacc717d96c92f361e26[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Tue Sep 24 19:06:10 2019 -0400
+
+    basic homepage to host all assignments
+
+[33mcommit cffa954a9d8fa20acb1155460d5964525d731ce2[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sat Sep 21 21:15:12 2019 -0400
+
+    updated github page for assignment 1
+
+[33mcommit 8ea3078209b3091ac749123defc36ddbc748563c[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Sat Sep 21 03:55:35 2019 -0400
+
+    almost final version of this assignment
+
+[33mcommit 697a16f7db5ee7ab137d75f78244db14817739b3[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri Sep 20 19:51:34 2019 -0400
+
+    added back single directory
+
+[33mcommit 96485e5651c90caaa7f27ce83fbbe65079ae4f77[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri Sep 20 19:49:31 2019 -0400
+
+    removed directory
+
+[33mcommit e222a836286c7cf072f4dfef40fbe7188ed9a98e[m
+Author: ruok27 <jakxii27@gmail.com>
+Date:   Fri Sep 20 19:35:40 2019 -0400
+
+    added a folder for my first hw from web dev camp
+
+[33mcommit 11e59db412567e60e57cd18a53a658acc431ba8d[m
+Author: Jose Fernandez <jakxii27@gmail.com>
+Date:   Tue Sep 17 03:10:08 2019 -0400
+
+    Add files via upload
+
+[33mcommit 63d55c58cff337667f3d0e40f7e955f3e5552583[m
+Author: Jose Fernandez <ruok27@users.noreply.github.com>
+Date:   Mon Sep 16 20:58:23 2019 -0400
+
+    changed file name from html to index and changed header
+
+[33mcommit 54fc62ada5755be5b8f11e8d7afedd697e156a2e[m
+Author: Jose Fernandez <ruok27@users.noreply.github.com>
+Date:   Mon Sep 16 20:20:37 2019 -0400
+
+    changed file name from html to index
+
+[33mcommit 5b3787b9f02e668c747c24cbc1d2a989b38f9ada[m
+Author: Jose Fernandez <ruok27@users.noreply.github.com>
+Date:   Mon Sep 16 20:18:12 2019 -0400
+
+    changed io page from older web dev class to trilogy bootcamp assignment
+
+[33mcommit c4af6eaccd4dc63145ef71e5f218c3c237b3af97[m
+Author: Ruok27 <jakxii27@gmail.com>
+Date:   Fri Feb 8 22:49:57 2019 -0500
+
+    Update index.html
+
+[33mcommit 590171b654339e4059d298f8265a8af71add9076[m
+Author: Ruok27 <jakxii27@gmail.com>
+Date:   Mon Feb 4 00:35:30 2019 -0500
+
+    Update index.html
+
+[33mcommit 16c5667148c5665227daec542af8b93738fd6d05[m
+Author: Ruok27 <jakxii27@gmail.com>
+Date:   Mon Feb 4 00:31:34 2019 -0500
+
+    Update index.html
+
+[33mcommit 5fdf3d4a4643333784b01541c62204d80f7a20d5[m
+Author: Ruok27 <jakxii27@gmail.com>
+Date:   Mon Feb 4 00:13:03 2019 -0500
+
+    simple html with pic
